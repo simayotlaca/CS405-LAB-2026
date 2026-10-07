@@ -1,6 +1,6 @@
 # CS405 LAB-2026
 
-Simay Otlaca
+Simay Otlaca-30804
 
 CS405 Computer Graphics lab assignments for 2026.
 
